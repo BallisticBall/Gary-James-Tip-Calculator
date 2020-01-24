@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/BallisticBall/Gary-James-Tip-Calculator/tree/master/GIF' width='' alt='Video Walkthrough' />
+<img src='https://github.com/BallisticBall/Gary-James-Tip-Calculator/blob/master/GIF/Jan-23-2020%2017-54-10.gif' width='' alt='Video Walkthrough' />
 
 ## Notes
 
