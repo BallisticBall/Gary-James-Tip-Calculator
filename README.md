@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap]<img src='https://github.com/BallisticBall/Gary-James-Tip-Calculator/tree/master/GIF"' />
+GIF created with [LiceCap]('https://github.com/BallisticBall/Gary-James-Tip-Calculator/tree/master/GIF')
 
 ## Notes
 
